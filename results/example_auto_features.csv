@@ -1,0 +1,13 @@
+query_id,participant,chat,turn_position,n_words,n_clauses_est,clause_type_auto,wh_word,n_modals,negation,person_1,person_2,person_3,n_hedges,has_question_mark,all_lowercase,has_caps_word,textspeak
+EXAMPLE_C1_Q02,EXAMPLE,C1,2,13,1,Interrogative (wh),why,0,0,0,0,0,0,0,1,0,0
+P900_C1_Q01,P900,C1,1,8,1,Interrogative (polar),,1,0,0,1,0,0,0,1,0,1
+P900_C1_Q02,P900,C1,2,8,1,Interrogative (wh),why,0,0,0,0,0,0,0,1,0,0
+P900_C1_Q03,P900,C1,3,12,2,Interrogative (polar),,0,1,0,0,0,0,0,1,0,0
+P900_C1_Q04,P900,C1,4,15,1,Declarative,what,0,1,0,1,0,0,0,0,1,1
+P900_C2_Q01,P900,C2,1,15,3,Interrogative (polar),,0,0,1,0,0,0,1,1,0,0
+P900_C2_Q02,P900,C2,2,8,1,Interrogative (wh),why,0,0,0,0,0,0,1,0,0,0
+P900_C2_Q03,P900,C2,3,9,1,Interrogative (polar),,1,0,0,0,1,1,0,1,0,0
+P900_C2_Q04,P900,C2,4,6,1,Interrogative (wh),what,0,0,0,1,0,0,0,1,0,1
+P900_C2_Q05,P900,C2,5,17,1,Declarative,what,0,0,0,1,0,1,0,1,0,0
+P900_C2_Q06,P900,C2,6,11,1,Interrogative (wh),who,1,0,1,0,0,0,0,1,0,0
+P900_C2_Q07,P900,C2,7,10,2,Interrogative (polar),,0,0,0,0,1,0,1,0,0,0

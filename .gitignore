@@ -1,0 +1,15 @@
+# Never commit participant or study data
+data/*
+!data/README.md
+!data/example/
+results/*
+!results/example_*
+
+# OS / editor
+.DS_Store
+__pycache__/
+*.pyc
+.Rhistory
+.RData
+.Rproj.user/
+~$*.xlsx

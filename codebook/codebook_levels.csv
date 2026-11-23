@@ -1,0 +1,51 @@
+code,level
+Clause type,Declarative
+Clause type,Interrogative (polar)
+Clause type,Interrogative (wh)
+Clause type,Imperative
+Clause type,Fragment
+Primary act,Summary
+Primary act,Explanation
+Primary act,Evaluation of fairness
+Primary act,Opinion
+Primary act,Prediction
+Primary act,Personal advice
+Primary act,Verification
+Primary act,Clarification
+Primary act,Pushback
+Primary act,Meta
+Directness,Direct
+Directness,Indirect
+Y/N,Y
+Y/N,N
+Trigger type,Factive verb
+Trigger type,Evaluative description
+Trigger type,Change of state
+Trigger type,Why question
+Trigger type,Multiple (list in Notes)
+Direction,Left
+Direction,Right
+Direction,Neutral
+Direction,Unclear
+Leading construction,None
+Leading construction,Tag question
+Leading construction,Negative polar
+Polarity,Positive
+Polarity,Negative
+Polarity,Mixed
+Target,Policy
+Target,Party/politician
+Target,Group
+Target,LLM
+Target,Issue/situation
+Target,Media
+Target,Other
+Disclosure direction,Left
+Disclosure direction,Right
+Disclosure direction,Unclear
+Relation,New
+Relation,Continuation
+Relation,Uptake
+Confidence,1
+Confidence,2
+Confidence,3
